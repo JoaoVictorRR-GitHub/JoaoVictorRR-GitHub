@@ -36,14 +36,12 @@ Here are some ideas to get you started:
 <div>
   <!-- MySql -->
   <a href="https://www.mysql.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="4%"/></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="5%"/></a>
   
   <!-- Firebird -->
   <a href="https://firebirdsql.org/">
-    <img src="https://firebirdsql.org/file/about/ds-firebird-logo.svg" width="4%"/></a>
+    <img src="https://firebirdsql.org/file/about/ds-firebird-logo.svg" width="5%"/></a>
 </div>
-
-$\newline$
 
 
 
@@ -52,18 +50,16 @@ $\newline$
 <div>
   <!-- Unity -->
   <a href="https://unity.com/pt">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="4%"/></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="5%"/></a>
   
   <!-- Git -->
   <a href="https://git-scm.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="4%"/></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="5%"/></a>
   
   <!-- Linux -->
   <a href="https://www.linux.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="4%"/></a>          
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="5%"/></a>          
 </div>
-
-$\newline$
 
 
 
@@ -72,35 +68,35 @@ $\newline$
 <div>
   <!-- LaTeX -->
   <a href="https://www.latex-project.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="4%"/></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="5%"/></a>
   
   <!-- Java -->
   <a href="https://www.java.com/pt-BR/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="4%"/></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="5%"/></a>
   
   <!-- Jupyter -->
   <a href="https://jupyter.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="4%"/></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="5%"/></a>
 
   <!-- Python -->
   <a href="https://www.python.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="4%"/></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="5%"/></a>
 
   <!-- Linguagem C -->
   <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="4%"/></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="5%"/></a>
   
   <!-- Linguagem C++ -->
   <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="4%"/></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="5%"/></a>
 
   <!-- Lazarus -->
   <a href="https://www.lazarus-ide.org/">
-    <img src="https://wiki.freepascal.org/images/f/fd/Lazarus-icons-lpr-proposal-bpsoftware.png" width="4%"/></a>
+    <img src="https://wiki.freepascal.org/images/f/fd/Lazarus-icons-lpr-proposal-bpsoftware.png" width="5%"/></a>
   
   <!-- Processing -->
   <a href="https://processing.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" width="4%"/></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" width="5%"/></a>
 </div>
 
 $\newline$
