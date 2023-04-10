@@ -99,23 +99,11 @@ $\newline$
 <div>
  <!-- https://github.com/anuraghazra/github-readme-stats -->
  <a href="https://github.com/JoaoVictorRR-GitHub">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoVictorRR-GitHub&layout=compact&langs_count=7&theme=synthwave"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoaoVictorRR-GitHub&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoVictorRR-GitHub&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoaoVictorRR-GitHub&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/></a>
+ 
+ <a href="#">
+   <img src="Gif_Perfil_.gif" width="25%"/></a>
 </div>
-
-$\newline$
-
-
-
-### | ==================================================================== |
-
-<div>
- <p align="center">
-  <a href="#">
-   <img src="Gif_Perfil_.gif" width="40%"/></a>
-  </p>
-</div>
-
-### | ==================================================================== |
 
 $\newline$
