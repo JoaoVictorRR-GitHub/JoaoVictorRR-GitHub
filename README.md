@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 -->
 
 
-### | $\textcolor{blue}{Conhecimento\ nos\ Bancos\ de\ Dados:\}$
+### | $\textcolor{purple}{Conhecimento\ nos\ Bancos\ de\ Dados:\}$
 <div>
   <!-- MySql -->
   <a href="https://www.mysql.com/">
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 
 
-### | $\textcolor{yellow}{Breve\ Experiência\ com\ as\ Ferramentas:\}$
+### | $\textcolor{blue}{Breve\ Experiência\ com\ as\ Ferramentas:\}$
 
 <div>
   <!-- Unity -->
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 
 
-### | $\textcolor{purple}{Conhecimento\ nas\ Linguagens\ de\ Programação:\}$
+### | $\textcolor{yellow}{Conhecimento\ nas\ Linguagens\ de\ Programação:\}$
 
 <div>
   <!-- LaTeX -->
