@@ -1,13 +1,13 @@
-### $\textcolor{cyan}{| <><>================================================<><> |}$
+### $\textcolor{cyan}{| <><>===========================================<><> |}$
 
 <div>
  <p align="center">
   <a href="#">
-   <img src="Gif_Perfil_.gif" width="850" height="300"/></a>
+   <img src="Gif_Perfil_.gif" width="800" height="300"/></a>
  </p>
 </div>
 
-### $\textcolor{cyan}{| <><>================================================<><> |}$
+### $\textcolor{cyan}{| <><>===========================================<><> |}$
 
 # Olá, meu nome é $\textcolor{cyan}{João\ Victor\ RR\}$ 🥷🏽
   Seja bem vindo ao meu perfil GitHub 👋.
