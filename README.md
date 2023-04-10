@@ -36,6 +36,7 @@ $\newline$
 
 
 ### | Breve Experiência com as Ferramentas:
+
 <div>
   <!-- Unity -->
   <a href="https://unity.com/pt">
@@ -102,6 +103,19 @@ $\newline$
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoaoVictorRR-GitHub&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
 </div>
 
+$\newline$
 
-###
 
+
+### | ====================================================================== |
+
+<div>
+ <p align="center">
+  <a href="#">
+   <img src="Gif_Perfil_.gif" width="40%"/></a>
+  </p>
+</div>
+
+### | ====================================================================== |
+
+$\newline$
