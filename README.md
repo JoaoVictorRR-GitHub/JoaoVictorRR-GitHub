@@ -3,7 +3,7 @@
 <div>
  <p align="center">
   <a href="#">
-   <img src="Gif_Perfil_.gif" width="80%"/></a>
+   <img src="Gif_Perfil_.gif" width="95%"/></a>
  </p>
 </div>
 
