@@ -9,7 +9,7 @@
 
 ### <p align="center">| <><>============================================================<><> |</p>
 
-# Olá, meu nome é $\textcolor{cyan}{João\ Victor\ RR\}$ 🧙‍♂️
+# Olá, meu nome é $\textcolor{cyan}{\text{João Victor RR}}$ 🧙‍♂️
   Seja bem vindo ao meu perfil GitHub 👋.
   
   Aqui você encontra algumas de minhas habilidades e experiências conquistadas ao longo do tempo 👨‍🎓.
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 -->
 
 
-## | $\textcolor{cyan}{Conhecimento\ nos\ Bancos\ de\ Dados:\}$
+## | $\textcolor{cyan}{\text{Conhecimento nos Bancos de Dados:}}$
 <div>
  <!-- MySql -->
  <a href="https://www.mysql.com/">
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 
 
-## | $\textcolor{Goldenrod}{Breve\ Experiência\ com\ as\ Ferramentas:\}$
+## | $\textcolor{Goldenrod}{\text{Breve Experiência com as Ferramentas:}}$
 
 <div>
 	<!-- Unity -->
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 
 
-## | $\textcolor{OrangeRed}{Conhecimento\ nas\ Linguagens\ de\ Programação:\}$
+## | $\textcolor{OrangeRed}{\text{Conhecimento nas Linguagens de Programação:}}$
 
 <div>
 	<!-- LaTeX -->
@@ -89,11 +89,9 @@ Here are some ideas to get you started:
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" width="5%"/></a>
 </div>
 
-$\newline$
 
 
-
-## | $\textcolor{Magenta}{Atividades\ e\ Desenvolvimento\ no\ GitHub:\}$
+## | $\textcolor{Magenta}{\text{Atividades e Desenvolvimento no GitHub:}}$
 
 <div>
 	<!-- https://github.com/anuraghazra/github-readme-stats -->
