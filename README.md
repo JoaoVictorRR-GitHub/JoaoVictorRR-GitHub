@@ -12,7 +12,7 @@
 # Olá, meu nome é $\textcolor{cyan}{\text{João Victor RR}}$ 🧙‍♂️
   Seja bem vindo ao meu perfil GitHub 👋.
   
-  Aqui você encontra algumas de minhas habilidades e experiências conquistadas ao longo do tempo 👨‍🎓.
+  Aqui você encontra meus projetos favoritos, iniciados dentro e fora da universidade, e consegue ter uma visão sobre as minhas habilidades e experiências aprimoradas ao longo do tempo 👨‍🎓.
 
 $\newline$
 
@@ -31,8 +31,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-## | $\textcolor{cyan}{\text{Conhecimentos em:}}$
+## | $\textcolor{cyan}{\text{Conhecimento Básico em:}}$
 <div>
 	<!-- MySql -->
 	<a href="https://www.mysql.com/">
@@ -75,7 +74,7 @@ Here are some ideas to get you started:
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" width="5%"/></a>
 </div>
 
-
+$\newline$
 
 ## | $\textcolor{Magenta}{\text{Atividades e Desenvolvimento no GitHub:}}$
 
