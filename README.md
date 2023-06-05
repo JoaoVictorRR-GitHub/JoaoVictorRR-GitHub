@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 -->
 
 
-## | $\textcolor{cyan}{\text{Conhecimento nos Bancos de Dados:}}$
+## | $\textcolor{cyan}{\text{Conhecimentos em:}}$
 <div>
 	<!-- MySql -->
 	<a href="https://www.mysql.com/">
