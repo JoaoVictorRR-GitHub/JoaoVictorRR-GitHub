@@ -34,19 +34,12 @@ Here are some ideas to get you started:
 
 ## | $\textcolor{cyan}{\text{Conhecimento nos Bancos de Dados:}}$
 <div>
- <!-- MySql -->
- <a href="https://www.mysql.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="5%"/></a>
+	<!-- MySql -->
+	<a href="https://www.mysql.com/">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="5%"/></a>
 	<!-- Firebird -->
 	<a href="https://firebirdsql.org/">
 		<img src="https://firebirdsql.org/file/about/ds-firebird-logo.svg" width="5%"/></a>
-</div>
-
-
-
-## | $\textcolor{Goldenrod}{\text{Breve Experiência com as Ferramentas:}}$
-
-<div>
 	<!-- Unity -->
 	<a href="https://unity.com/pt">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="5%" /></a>
@@ -56,26 +49,19 @@ Here are some ideas to get you started:
 	<!-- Linux -->
 	<a href="https://www.linux.org/">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="5%" /></a>          
-</div>
-
-
-
-## | $\textcolor{OrangeRed}{\text{Conhecimento nas Linguagens de Programação:}}$
-
-<div>
 	<!-- LaTeX -->
- <a href="https://www.latex-project.org/">
+	<a href="https://www.latex-project.org/">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="5%"/></a>
 	<!-- Java -->
- <a href="https://www.java.com/pt-BR/">
+	<a href="https://www.java.com/pt-BR/">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="5%"/></a>
- <!-- Jupyter -->
- <a href="https://jupyter.org/">
+	<!-- Jupyter -->
+	<a href="https://jupyter.org/">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="5%"/></a>
 	<!-- Python -->
- <a href="https://www.python.org/">
+	<a href="https://www.python.org/">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="5%"/></a>
- <!-- Linguagem C -->
+	<!-- Linguagem C -->
 	<a href="#">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="5%"/></a>
 	<!-- Linguagem C++ -->
