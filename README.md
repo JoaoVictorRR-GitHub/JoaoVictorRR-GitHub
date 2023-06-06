@@ -9,10 +9,11 @@
 
 ### <p align="center">| <><>============================================================<><> |</p>
 
-# Olá, meu nome é $\textcolor{cyan}{\text{João Victor RR}}$ 🧙‍♂️
+<!-- cyan -->
+# Olá, meu nome é $\textcolor{Aquamarine}{\text{João Victor RR}}$ 🧙‍♂️
   Seja bem vindo ao meu perfil GitHub 👋.
   
-  Aqui você encontra meus projetos favoritos, iniciados dentro e fora da universidade, e consegue ter uma visão sobre as minhas habilidades e experiências aprimoradas ao longo do tempo 👨‍🎓.
+  Aqui você encontra meus projetos realizados dentro e fora da universidade, e consegue ter uma visão sobre as minhas habilidades e experiências aprimoradas ao longo do tempo 👨‍🎓.
 
 $\newline$
 
@@ -31,7 +32,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## | $\textcolor{cyan}{\text{Conhecimento Básico em:}}$
+## | $\textcolor{GoldenRod}{\text{Conhecimento Básico em:}}$
 <div>
 	<!-- MySql -->
 	<a href="https://www.mysql.com/">
@@ -51,6 +52,8 @@ Here are some ideas to get you started:
 	<!-- LaTeX -->
 	<a href="https://www.latex-project.org/">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="5%"/></a>
+</div>
+<div>
 	<!-- Java -->
 	<a href="https://www.java.com/pt-BR/">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="5%"/></a>
