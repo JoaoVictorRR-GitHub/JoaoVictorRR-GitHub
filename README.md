@@ -1,5 +1,5 @@
-### <p align="center">| <><>============================================================<><> |</p>
-
+### <p align="center">| <><><>====<><><>====<><><>====<><><><>====<><><>====<><><>====<><><> |</p>
+			
 <div>
  <p align="center">
   <a href="https://github.com/JoaoVictorRR-GitHub/Processing-Animacao-Espacial">
@@ -7,13 +7,13 @@
  </p>
 </div>
 
-### <p align="center">| <><>============================================================<><> |</p>
+### <p align="center">| <><><>====<><><>====<><><>====<><><><>====<><><>====<><><>====<><><> |</p>
 
 <!-- cyan -->
-# Olá, meu nome é $\textcolor{Aquamarine}{\text{João Victor RR}}$ 🧙‍♂️
+# Olá, meu nome é ${\color{Aquamarine} \text{João Victor RR}}$ 🧙‍♂️
   Seja bem vindo ao meu perfil GitHub 👋.
   
-  Aqui você encontra meus projetos realizados dentro e fora da universidade, e consegue ter uma visão sobre as minhas habilidades e experiências aprimoradas ao longo do tempo 👨‍🎓.
+  Aqui você encontra o desenvolvimento de todos os meus projetos e trabalhos. Esse repositório comtempla a minha experiência com uma variadade de linguagens de programação, demonstrando algumas das minhas habilidades conquistadas e aprimoradas durante o período universitário 👨‍🎓.
 
 $\newline$
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## | $\textcolor{GoldenRod}{\text{Conhecimento Básico em:}}$
+## | ${\color{GoldenRod} \text{Conhecimento Básico em:}}$
 <div>
 	<!-- MySql -->
 	<a href="https://www.mysql.com/">
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
 $\newline$
 
-## | $\textcolor{Magenta}{\text{Atividades e Desenvolvimento no GitHub:}}$
+## | ${\color{Magenta} \text{Atividades e Desenvolvimento no GitHub:}}$
 
 <div>
 	<!-- https://github.com/anuraghazra/github-readme-stats -->
