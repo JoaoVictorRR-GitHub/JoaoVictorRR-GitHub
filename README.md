@@ -11,9 +11,11 @@
 
 <!-- cyan -->
 # Olá, meu nome é ${\color{Aquamarine} \text{João Victor RR}}$ 🧙‍♂️
-  Seja bem vindo ao meu perfil GitHub 👋.
-  
-  Aqui você encontra o desenvolvimento de todos os meus projetos e trabalhos. Esse repositório comtempla a minha experiência com uma variadade de linguagens de programação, demonstrando algumas das minhas habilidades conquistadas e aprimoradas durante o período universitário 👨‍🎓.
+<p align="justify">
+Seja bem vindo ao meu perfil GitHub 👋.
+
+Aqui você encontra o desenvolvimento de todos os meus projetos e trabalhos. Esse repositório comtempla a minha experiência com uma variadade de linguagens de programação, demonstrando algumas das minhas habilidades conquistadas e aprimoradas durante o período universitário 👨‍🎓.
+</p>
 
 $\newline$
 
