@@ -1,16 +1,17 @@
-### <p align="center">| <><><>====<><><>====<><><>====<><><><>====<><><>====<><><>====<><><> |</p>
-			
+---
+
 <div>
  <p align="center">
   <a href="https://github.com/JoaoVictorRR-GitHub/Processing-Animacao-Espacial">
-   <img src="Gif_Perfil_.gif" width="90%"/></a>
+   <img src="Gif_Perfil_.gif" width="60%"/></a>
  </p>
 </div>
 
-### <p align="center">| <><><>====<><><>====<><><>====<><><><>====<><><>====<><><>====<><><> |</p>
+---
 
 <!-- cyan -->
-# Olá, meu nome é ${\color{Aquamarine} \text{João Victor RR}}$ 🧙‍♂️
+<!-- Aquamarine -->
+# Olá, meu nome é João Victor RR 🧙‍♂️
 <p align="justify">
 Seja bem vindo ao meu perfil GitHub 👋.
 
@@ -34,7 +35,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## | ${\color{GoldenRod} \text{Conhecimento Básico em:}}$
+<!-- GoldenRod -->
+## |> Conhecimento Básico <|
 <div>
 	<!-- MySql -->
 	<a href="https://www.mysql.com/">
@@ -81,7 +83,8 @@ Here are some ideas to get you started:
 
 $\newline$
 
-## | ${\color{Magenta} \text{Atividades e Desenvolvimento no GitHub:}}$
+<!-- Magenta -->
+## |> Atividades e Desenvolvimento no GitHub <|
 
 <div>
 	<!-- https://github.com/anuraghazra/github-readme-stats -->
