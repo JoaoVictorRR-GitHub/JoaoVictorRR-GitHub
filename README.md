@@ -3,7 +3,7 @@
 <div>
  <p align="center">
   <a href="https://github.com/JoaoVictorRR-GitHub/Processing-Animacao-Espacial">
-   <img src="Gif_Perfil_.gif" width="60%"/></a>
+   <img src="Gif_Perfil_.gif" width="80%"/></a>
  </p>
 </div>
 
