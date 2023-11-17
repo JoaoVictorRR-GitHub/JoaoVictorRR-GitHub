@@ -15,7 +15,7 @@
 <p align="justify">
 Seja bem vindo ao meu perfil GitHub 👋.
 
-Aqui você encontra o desenvolvimento de todos os meus projetos e trabalhos. Esse repositório comtempla a minha experiência com uma variadade de linguagens de programação, demonstrando algumas das minhas habilidades conquistadas e aprimoradas durante o período universitário 👨‍🎓.
+Aqui você encontra alguns dos meus projetos e trabalhos já concluídos ou em desenvolvimento 👨‍🎓.
 </p>
 
 $\newline$
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 		<img src="https://firebirdsql.org/file/about/ds-firebird-logo.svg" width="5%"/></a>
 	<!-- Unity -->
 	<a href="https://unity.com/pt">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="5%" /></a>
+		<img src="https://devicon-website.vercel.app/api/unity/original.svg?color=%23FFFFFF" width="5%" /></a>
 	<!-- Git -->
 	<a href="https://git-scm.com/">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="5%" /></a>
@@ -55,13 +55,16 @@ Here are some ideas to get you started:
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="5%" /></a>          
 	<!-- LaTeX -->
 	<a href="https://www.latex-project.org/">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="5%"/></a>
+		<img src="https://devicon-website.vercel.app/api/latex/original.svg?color=%23FFFFFF" width="5%"/></a>
 	<!-- Flutter -->
 	<a href="https://flutter.dev" target="_blank">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="5%"/></a>
 	<!-- Android Studio -->
 	<a href="https://developer.android.com/studio?hl=pt-br" target="_blank">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="5%"/></a>
+	<!-- Unreal Engine -->
+	<a href="https://www.unrealengine.com/pt-BR" target="_blank">
+		<img src="https://devicon-website.vercel.app/api/unrealengine/original.svg?color=%23FFFFFF" width="5%"/></a>
 </div>
 <div>
 	<!-- Java -->
@@ -88,6 +91,9 @@ Here are some ideas to get you started:
 	<!-- Dart -->
 	<a href="https://dart.dev" target="_blank">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="5%"/></a>
+	<!-- Firebase -->
+	<a href="https://firebase.google.com/?hl=pt" target="_blank">
+		<img src="https://devicon-website.vercel.app/api/firebase/plain-wordmark.svg" width="5%"/></a>
 </div>
 
 $\newline$
