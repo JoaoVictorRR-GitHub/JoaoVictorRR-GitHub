@@ -11,7 +11,7 @@
 
 <!-- cyan -->
 <!-- Aquamarine -->
-# Olá, meu nome é João Victor RR 🧙‍♂️
+# Olá, meu nome é $\textcolor{Aquamarine}{\text{João Victor RR}}$ 🧙‍♂️
 <p align="justify">
 Seja bem vindo ao meu perfil GitHub 👋.
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- GoldenRod -->
-## |> Conhecimento Básico <|
+## $\textcolor{GoldenRod}{\text{Conhecimento Básico}}$
 <div>
 	<!-- MySql -->
 	<a href="https://www.mysql.com/">
@@ -56,6 +56,12 @@ Here are some ideas to get you started:
 	<!-- LaTeX -->
 	<a href="https://www.latex-project.org/">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="5%"/></a>
+	<!-- Flutter -->
+	<a href="https://flutter.dev" target="_blank">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="5%"/></a>
+	<!-- Android Studio -->
+	<a href="https://developer.android.com/studio?hl=pt-br" target="_blank">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="5%"/></a>
 </div>
 <div>
 	<!-- Java -->
@@ -79,12 +85,15 @@ Here are some ideas to get you started:
 	<!-- Processing -->
 	<a href="https://processing.org/" target="_blank">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" width="5%"/></a>
+	<!-- Dart -->
+	<a href="https://dart.dev" target="_blank">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="5%"/></a>
 </div>
 
 $\newline$
 
 <!-- Magenta -->
-## |> Atividades e Desenvolvimento no GitHub <|
+## $\textcolor{Magenta}{\text{Atividades e Desenvolvimento no GitHub}}$
 
 <div>
 	<!-- https://github.com/anuraghazra/github-readme-stats -->
