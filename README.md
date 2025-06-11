@@ -11,7 +11,8 @@
 
 <!-- cyan -->
 <!-- Aquamarine -->
-# Olá, meu nome é $\textcolor{Aquamarine}{\text{João Victor RR}}$ 🧙‍♂️
+<!-- $\textcolor{Aquamarine}{\text{João Victor RR}}$ -->
+# Olá, meu nome é João Victor RR 🧙‍♂️
 <p align="justify">
 Seja bem vindo ao meu perfil GitHub 👋.
 
@@ -36,7 +37,8 @@ Here are some ideas to get you started:
 -->
 
 <!-- GoldenRod -->
-## $\textcolor{GoldenRod}{\text{Conhecimento Básico}}$
+<!-- $\textcolor{GoldenRod}{\text{Conhecimento Básico}}$ -->
+## Conhecimento Básico
 <div>
 	<!-- MySql -->
 	<a href="https://www.mysql.com/">
@@ -99,7 +101,8 @@ Here are some ideas to get you started:
 $\newline$
 
 <!-- Magenta -->
-## $\textcolor{Magenta}{\text{Atividades e Desenvolvimento no GitHub}}$
+<!-- $\textcolor{Magenta}{\text{Atividades e Desenvolvimento no GitHub}}$ -->
+## Atividades e Desenvolvimento no GitHub
 
 <div>
 	<!-- https://github.com/anuraghazra/github-readme-stats -->
